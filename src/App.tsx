@@ -1,4 +1,4 @@
-import styled, { ThemeProvider } from "styled-components";
+import { ThemeProvider } from "styled-components";
 import { myTheme } from "./types/my-theme";
 import Router from "./Router";
 import Provider from "./context/Provider";
