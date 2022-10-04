@@ -12,6 +12,7 @@ const myTheme: DefaultTheme = {
     gray: "#c0c0c0",
     white: "#ffffff",
     black: "#333333",
+    purple: "#4F36F4;",
   },
 };
 
